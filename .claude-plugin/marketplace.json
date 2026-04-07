@@ -1,0 +1,18 @@
+{
+    "name": "wiki",
+    "description": "研究 Wiki 管理工具——9 個子指令管理 Obsidian vault 知識庫",
+    "owner": {
+        "name": "chunyen"
+    },
+    "plugins": [
+        {
+            "name": "wiki",
+            "description": "建立和維護結構化的研究 Wiki（Obsidian vault）",
+            "version": "1.0.0",
+            "source": "./",
+            "author": {
+                "name": "chunyen"
+            }
+        }
+    ]
+}

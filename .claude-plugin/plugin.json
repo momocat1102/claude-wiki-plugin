@@ -1,0 +1,17 @@
+{
+    "name": "wiki",
+    "version": "1.0.0",
+    "description": "建立和維護結構化的研究 Wiki（Obsidian vault），將知識從各種來源逐步編譯成互相連結的 Markdown 頁面。支援 init / ingest / timeline / search / query / status / lint / viz / ppt 九個子指令。",
+    "author": {
+        "name": "chunyen"
+    },
+    "license": "MIT",
+    "keywords": [
+        "wiki",
+        "obsidian",
+        "knowledge-base",
+        "research",
+        "timeline",
+        "ingest"
+    ]
+}
