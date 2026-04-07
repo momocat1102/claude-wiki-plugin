@@ -11,7 +11,7 @@ Create a new research wiki (Obsidian vault) for a topic.
 
 1. **Confirm with user:**
    - Topic name (becomes directory name, kebab-case)
-   - Location (default: `~/wikis/<topic>/`)
+   - Location (default: project root — wiki files go into `wiki/`, `raw/`, `schema.md` alongside existing project structure)
    - Initial scope — what aspects to focus on
    - Any initial sources to ingest
 
