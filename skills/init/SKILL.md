@@ -55,7 +55,7 @@ Create a new research wiki (Obsidian vault) for a topic.
    - `wiki/references/slide-index.md` — 投影片索引（初始為空表格：日期/投影片/主題/頁數/關聯頁面）
    - `wiki/.obsidian/snippets/timeline-callout.css` — 複製自 `/home/chunyen/.claude/skills/llm-wiki/assets/timeline-callout.css`
 
-5. **Init git:** `git init` in the wiki root
+5. **Git:** Wiki 放在專案內時，共用專案的 git repo（不需要 `git init`）。若 wiki 獨立存放才需要 `git init`。
 
 6. **更新專案 CLAUDE.md**：在專案的 CLAUDE.md 加入 wiki 說明區塊，讓新 session 的模型知道 wiki 的存在和用法。如果 CLAUDE.md 不存在就建立。追加以下內容：
 
